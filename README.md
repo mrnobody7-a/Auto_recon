@@ -47,6 +47,7 @@ sudo apt install nmap xsltproc traceroute whois
 ### 🖥️ Interactive Mode
 
 ```bash
+sudo chmod +x scanner.sh
 ./scanner.sh
 ```
 
